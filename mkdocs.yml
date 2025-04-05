@@ -1,7 +1,7 @@
 site_name: My Docs
 
 nav:
-  - Welcome: 'welcome.md'
+  - Index: 'index.md'
   - Startup: 'startup.md'
 
 
