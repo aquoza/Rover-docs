@@ -1,0 +1,9 @@
+site_name: My Docs
+
+nav:
+  - Welcome: 'welcome.md'
+  - Startup: 'startup.md'
+
+
+
+theme: readthedocs
