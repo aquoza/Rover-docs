@@ -3,6 +3,7 @@ site_name: My Docs
 nav:
   - Index: 'index.md'
   - Startup: 'startup.md'
+  - PCB Documentation: 'pcb_documentation.md'
 
 
 
