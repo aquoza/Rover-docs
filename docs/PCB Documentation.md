@@ -45,9 +45,3 @@ At each joint:
 - The **CAN line** connects to the PCB’s CAN transceiver, allowing it to receive commands from the central controller.
 
 All electronic components are securely mounted on a **custom-designed 3D-printed enclosure** to ensure mechanical stability and ease of maintenance.
-
----
-
-## License
-
-This project is part of a student research and development initiative. Please contact the project supervisor for reuse permissions.
