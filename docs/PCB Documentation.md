@@ -12,7 +12,7 @@ This document outlines the design, functionality, and integration of the custom 
 
 The PCB is designed to be mounted at each node of the mechanical arm. It plays a vital role in receiving commands and controlling the motors at each joint. A **CAN bus** runs across the arm, connecting all nodes and enabling synchronized communication between the microcontrollers.
 
-![3D Model - PCB Mounted on Arm](./Screenshot%202025-04-06%20154113.png)
+![3D Model - PCB Mounted on Arm](Images/Screenshot%202025-04-06%20154113.png)
 
 ---
 
@@ -31,7 +31,7 @@ The PCB is designed to be mounted at each node of the mechanical arm. It plays a
 - **Transceiver Header:** Female header for connecting the CAN transceiver module.
 - **Male Header Pins:** For UART connection and 2 GPIO pins in reserve.
 
-![Top View - PCB Layout](./Screenshot%202025-04-07%20113859.png)
+![Top View - PCB Layout](Images/Screenshot%202025-04-07%20113859.png)
 
 ---
 
